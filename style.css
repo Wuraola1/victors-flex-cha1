@@ -1,0 +1,26 @@
+body {
+  background-color: hsl(350, 56%, 85%);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.icon {
+  display: flex;
+}
+.click {
+  color: black;
+  font-size: 23px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
